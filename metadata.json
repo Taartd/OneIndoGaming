@@ -1,0 +1,7 @@
+{
+  "name": "OneIndoGaming Store - CDID & Game Services",
+  "description": "Professional digital store for CDID games, Xbox Game Pass, gaming accounts, and joki services in Indonesia.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
